@@ -132,7 +132,7 @@ CHDB_LIB_PATH="/$HOME/chdb-purego/libchdb.so" go run main.go
 		"bytes_read": 0
 	}
 }
-``
+```
 
 
 ## Roadmap :
