@@ -140,9 +140,9 @@ CHDB_LIB_PATH="/$HOME/chdb-purego/libchdb.so" go run main.go
 
 The objective is to add the support of chproto https://github.com/ClickHouse/ch-go/tree/main/proto for an easier data exchange between go and clickhouse.
 
-[ ] more tests
-[ ] add chproto support
-[ ] better handling lib path
-[ ] test (and support) persistent sessions
-[ ] add sql interface
-[ ] add optionnal go-arrow binding
+- [ ] more tests
+- [ ] add chproto support
+- [ ] better handling lib path
+- [ ] test (and support) persistent sessions
+- [ ] add sql interface
+- [ ] add optionnal go-arrow binding
